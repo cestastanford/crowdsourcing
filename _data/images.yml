@@ -1,19 +1,26 @@
 - title: railroads
-  url: http://placehold.it/1200x500
+  url: /images/railroads.png
   caption: "Unknown"
   credit: ""
   slideshow: home
-  alt-txt:
-  
+  alt-txt: "Railroads"
+
 - title: london
-  url: http://placehold.it/1200x500
+  url: /images/emotions.png
   caption: "Unknown"
   credit: ""
   slideshow: home
   alt-txt:
 
 - title: bay
-  url: http://placehold.it/1200x500
+  url: /images/yotb.png
+  caption: "Unknown"
+  credit: ""
+  slideshow: home
+  alt-txt:
+
+- title: crowdsourcing
+  url: /images/crowdsourcing.png
   caption: "Unknown"
   credit: ""
   slideshow: home
