@@ -1,0 +1,14 @@
+name: Crowdsourcing
+sub-name: "CESTA Research Project"
+markdown: redcarpet
+highlighter: pygments
+description: "A research project at the Center for Spatial and Textual Analysis (CESTA), Stanford University."
+safe: false
+category_dir : 
+category_title_prefix : ''
+category_title : ''
+google_id: ''
+disqus: ''
+url: http://0.0.0.0:4000
+
+
