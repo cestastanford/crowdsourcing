@@ -1,9 +1,25 @@
 ---
 layout: page
 title: Tools
-image: 
+image:
 ---
 
-<div class="widewrapper main">
-      <img src="/img/paula_danel.jpg" class="img-responsive" alt="Aha!">
-</div>
+#### Amazon Turk
+
+* Description
+* Code →
+
+#### Project Gado
+
+* Description
+* Code →
+
+#### Flickr Tools
+
+* Description
+* Code →
+
+#### Bibliopedia Mile Markers
+
+* Description
+* Code →
