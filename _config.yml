@@ -1,6 +1,6 @@
 name:                     "Crowdsourcing"
 sub-name:                 "Crowdsourcing for the Humanities"
-# is this a lab site or project site? 
+# is this a lab site or project site?
 type:                      project
 markdown:                 redcarpet
 highlighter:              pygments
@@ -13,7 +13,7 @@ disqus:                   ''
 url:                      http://0.0.0.0:4000
 permalink:                /:year/:month/:day/:title/
 twitter:                   hdstanford
-banner-img-url:            https://stanford.box.com/cesta-banner-img/
+banner-img-url:           "https://googledrive.com/host/0B_L3W8DD67iAVUktdHIxN0RnUjA/"
 
 links:
   - title: Home
