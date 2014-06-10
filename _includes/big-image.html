@@ -2,7 +2,7 @@
 {% if image.title  == page.project-name %}
 
 <div class="widewrapper main">
-      <img src="{{ image.url }}" class="img-responsive" alt="{{ image.alt-txt }}">
+      <img src="{{ site.banner-img-url }}{{ image.filename }}" class="img-responsive" alt="{{ image.alt-txt }}">
 </div>
 
 {% endif %}

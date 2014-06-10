@@ -1,26 +1,26 @@
 - title: railroads
-  url: /images/railroads.png
+  filename: railroads.png
   caption: "Unknown"
   credit: ""
   slideshow: home
   alt-txt: "Railroads"
 
 - title: london
-  url: /images/emotions.png
+  filename:  emotions.png
   caption: "Unknown"
   credit: ""
   slideshow: home
   alt-txt:
 
 - title: bay
-  url: /images/yotb.png
+  filename: yotb.png
   caption: "Unknown"
   credit: ""
   slideshow: home
   alt-txt:
 
 - title: crowdsourcing
-  url: /images/crowdsourcing.png
+  filename: crowdsourcing.png
   caption: "Unknown"
   credit: ""
   slideshow: home

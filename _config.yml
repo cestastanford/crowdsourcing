@@ -1,5 +1,7 @@
 name:                     "Crowdsourcing"
 sub-name:                 "Crowdsourcing for the Humanities"
+# is this a lab site or project site? 
+type:                      project
 markdown:                 redcarpet
 highlighter:              pygments
 description:              "A research project at the Center for Spatial and Textual Analysis (CESTA), Stanford University."
@@ -10,6 +12,8 @@ google_id:                ''
 disqus:                   ''
 url:                      http://0.0.0.0:4000
 permalink:                /:year/:month/:day/:title/
+twitter:                   hdstanford
+banner-img-url:            https://stanford.box.com/cesta-banner-img/
 
 links:
   - title: Home
