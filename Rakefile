@@ -3,6 +3,7 @@ require 'rake'
 require 'yaml'
 require 'time'
 require "rake/clean"
+require "stringex"
 
 SOURCE = "."
 CONFIG = {
@@ -43,7 +44,7 @@ task :page do
   end
 end # task :page
 
-desc "New post"
+desc "Write a new post"
 task :write do |t|
 
   title    = get_stdin("What is the title of your post? ")
@@ -52,10 +53,28 @@ task :write do |t|
   puts "Creating new draft: #{filename}"
   open(filename, "w") do |post|
     post.puts "---"
-    post.puts "layout: stanford-post"
+    post.puts "layout: page"
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
-    post.puts "categories: "
+    post.puts "categories: news"
+    post.puts "---"
+  end
+end
+
+desc "Create a new event"
+task :event do |t|
+
+  title    = get_stdin("What is the title of your event? ")
+  dateTime = get_stdin("What is the date of your event (YYYY-MM-DD)? ")
+  filename = "_posts/#{dateTime}-event-#{title.to_url}.markdown"
+
+  puts "Creating a new event: #{filename}"
+  open(filename, "w") do |post|
+    post.puts "---"
+    post.puts "layout: page"
+    post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+    post.puts "date: #{dateTime} #{Time.now.strftime('%H:%M')}"
+    post.puts "categories: event"
     post.puts "---"
   end
 end
