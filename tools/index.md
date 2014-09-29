@@ -17,7 +17,7 @@ image:
 #### Flickr Tools
 
 * Description
-* Code →
+* Code → [Code for Processing Bulkr Files to Historypin Bulk Upload](/files/GenBulkerParser.py)
 
 #### Bibliopedia Mile Markers
 
