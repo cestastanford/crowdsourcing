@@ -12,16 +12,6 @@ image:
 * Developed with MapCollaborator, this site allows for the addition of acquisition and establishment dates to units and holdings to the CPAD database.
 * http://www.mapcollaborator.org/cpad_dates/
 
-#### Amazon Turk
-
-* Description
-* Code →
-
-#### Project Gado
-
-* Description
-* Code →
-
 #### Flickr Tools
 
 * Description Code for Processing Flickr images and Data for upload to Historypin
@@ -33,6 +23,11 @@ image:
    * Use the below parser code to parse the photos' metadata into a .csv file.
    * Use the Historypin Bulk Uploader to upload the .csv file and its respective photos.
 * Code → [Code for Processing Bulkr Files to Historypin Bulk Upload](/files/GenBulkerParser.py)
+
+#### Amazon Turk
+
+* Description
+* Code →
 
 #### Bibliopedia Mile Markers
 
