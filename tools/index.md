@@ -6,11 +6,11 @@ image:
 
 #### Maptcha Version 2
 * Maptcha Version 2 is a map warping tool based on Maptcha and Stamen's previous work with NYPL/Stanford. Stamen has developed an independent application tailored to the needs of map collections, focusing on both the rectification interface and the old map selection process. It’s possible for editors of the Year Of The Bay project to decide which historic maps and atlases are a priority for rectification, and guide the public toward just those maps.
-* https://github.com/stamen/maptcha-v2
+* [https://github.com/stamen/maptcha-v2](https://github.com/stamen/maptcha-v2)
 
 #### California Protected Areas Database (CPAD) Map Collaborator
 * Developed with MapCollaborator, this site allows for the addition of acquisition and establishment dates to units and holdings to the CPAD database.
-* http://www.mapcollaborator.org/cpad_dates/
+* [http://www.mapcollaborator.org/cpad_dates/](http://www.mapcollaborator.org/cpad_dates/)
 
 #### Flickr Tools
 
