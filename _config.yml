@@ -1,5 +1,5 @@
 name:                     "Crowdsourcing"
-sub-name:                 "Crowdsourcing for the Humanities"
+sub-name:                 "for the Humanities"
 # is this a lab site or project site?
 type:                      project
 markdown:                 redcarpet
@@ -10,7 +10,7 @@ category_title_prefix :   ''
 category_title :          ''
 google_id:                ''
 disqus:                   ''
-url:                      http://0.0.0.0:4000
+url:                      http://humanitiescrowdsourcing.stanford.edu/
 permalink:                /:year/:month/:day/:title/
 twitter:
 banner-img-url:           "https://googledrive.com/host/0B9__iE30PYDoR0RVbmxvbVpjSjQ/"
