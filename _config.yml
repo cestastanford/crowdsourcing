@@ -2,7 +2,7 @@ name:                     "Crowdsourcing"
 sub-name:                 "for the Humanities"
 # is this a lab site or project site?
 type:                      project
-markdown:                 redcarpet
+markdown:                 kramdown 
 highlighter:              pygments
 description:              "A research project at the Center for Spatial and Textual Analysis (CESTA), Stanford University."
 category_dir :

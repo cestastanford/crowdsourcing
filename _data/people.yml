@@ -143,7 +143,11 @@
     - bay
     - railroads
     - general
-  cs_project_description: "Crowdsourcing General"
+  cs_project_description: 
+    - "Crowdsourcing General"
+    - "Emotions of London"
+    - "Year of the Bay"
+    - "General Crowdsourcing"
   image: http://hasslefreeliving.com/wp-content/uploads/2012/10/placeholder.gif
   status: active
 
@@ -186,7 +190,10 @@
     - general
     - bay
     - railroads
-  cs_project_description: "Crowdsourcing General"
+  cs_project_description: 
+    - "Crowdsourcing General"
+    - "Year of the Bay"
+    - "Living with the Railroads"
   image: http://hasslefreeliving.com/wp-content/uploads/2012/10/placeholder.gif
   status: active
 
