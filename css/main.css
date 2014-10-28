@@ -10,7 +10,7 @@ color: rgba(142,19,10,1);
 background-color: transparent;
 border-bottom: solid 1px rgba(142,19,10,1);
 }
-a {color: rgba(142,19,10,1)}
+a:link {color: rgba(142,19,10,1)}
 a:hover {
 color: rgba(142,19,10,.5);
 text-decoration:none;

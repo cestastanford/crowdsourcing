@@ -285,7 +285,11 @@ textarea {
   font-size: inherit;
   line-height: inherit;
 }
-a {
+a:link {
+  color: #565347;
+  text-decoration: none;
+}
+a:visited {
   color: #565347;
   text-decoration: none;
 }
@@ -736,6 +740,14 @@ pre code {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
+}
+.wrap a:link {
+  color: rgba(142,19,10,1);
+  text-decoration: underline;
+}
+.wrap a:visited {
+  color: rgba(142,19,10,1);
+  text-decoration: underline;
 }
 @media (min-width: 768px) {
   .container {
