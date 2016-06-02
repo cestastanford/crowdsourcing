@@ -22,7 +22,7 @@ image:
    * Use the Bulkr application (http://clipyourphotos.com/bulkr) to bulk download your favorited photos.
    * Use the below parser code to parse the photos' metadata into a .csv file.
    * Use the Historypin Bulk Uploader to upload the .csv file and its respective photos.
-* Code → [Code for Processing Bulkr Files to Historypin Bulk Upload](/files/GenBulkerParser.py)
+* [Blkr Code](https://gist.github.com/gwolfenstein/53a3743c7e0f2626c7b0f27b7848e04b)
 
 #### Amazon Turk
 
