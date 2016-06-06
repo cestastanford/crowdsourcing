@@ -3,3 +3,5 @@ assets
 img
 images
 post-img
+.DS_Store
+Gemfile.lock

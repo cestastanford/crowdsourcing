@@ -92,13 +92,13 @@ hr.brand::after {
 
 ul.cleanlist {
  list-style: none;
- margin-left: 0;
+ margin-left: 1em;
  padding-left: 1em;
  text-indent: -1em;
  }
 
 ul.cleanlist li {
-	padding-bottom:3em;
+	padding-top:1.2em;
 }
 
 /* list of people */
