@@ -88,6 +88,12 @@ hr.brand::after {
 	font-weight:700;
 }
 
+/* list of publication */
+
+ul.cleanlist {
+	list-style-type:none;
+}
+
 /* list of people */
 .masonry *, .masonry  *:before,  .masonry *:after {box-sizing:  border-box !important;}
 
