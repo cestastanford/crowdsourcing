@@ -91,7 +91,14 @@ hr.brand::after {
 /* list of publication */
 
 ul.cleanlist {
-	list-style-type:none;
+ list-style: none;
+ margin-left: 0;
+ padding-left: 1em;
+ text-indent: -1em;
+ }
+
+ul.cleanlist li {
+	padding-bottom:3em;
 }
 
 /* list of people */
