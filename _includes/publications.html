@@ -5,7 +5,14 @@
 <div class="col-md-9">
     <ul>
         {% for item in site.data.publications %}
-        <li>{{ item.title }}</li>
+        <li>
+          {% if item.url %}
+            {{ item.authors }}, <a href="{{ item.url }}">{{ item.title }}</a>
+          {% else %}
+              {{ item.authors }}, {{ item.title }}
+          {% endif %}
+        </li>
+        {% endfor %}
     </ul>
 </div>
 </section>
